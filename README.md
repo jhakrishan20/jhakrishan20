@@ -9,15 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhakrishan20" alt="jhakrishan20" /></a> </p>
 
-- 🔭 I’m currently working on [ (VAAYU) Vigillant Air Assessment and Yielding Unit](https://github.com/jhakrishan20/Vigilant-Air-Assessment-and-Yielding-Unit.git)
+- 🔭 I’m currently working on [Project - SkyOps](https://github.com/jhakrishan20/skyops-public.git)
 
-- 🌱 I’m currently learning **solidity ,**
+- 🌱 I’m currently learning **IOT and Embedded systems and Softwares ,**
 
-- 💬 Ask me about **node.js , mongo-db , tensorflow.js , web3**
+- 📫 How to reach me **krishanjha80@gmail.com** 
 
-- 📫 How to reach me **krishanjha80@gmail.com**
-
-- ⚡ Fun fact **I am an Artist.**
+- ⚡ ALso, **I am an Artist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
